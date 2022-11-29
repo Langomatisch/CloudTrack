@@ -1,17 +1,72 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "BauSucht",
+		"ip": "bausucht.net",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "GrieferGames",
+		"ip": "griefergames.net",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "IoStein",
+		"ip": "iostein.net",
+		"type": "PC"
+	},
+	{
+		"name": "HorstBlocks",
+		"ip": "horstblocks.net",
+		"type": "PC"
+	},
+	{
+		"name": "OPSucht",
+		"ip": "opsucht.net",
+		"type": "PC"
+	},
+	{
+		"name": "Mixelpixel",
+		"ip": "mixelpixel.net",
+		"type": "PC"
+	},
+	{
+		"name": "OriginRealms",
+		"ip": "play.originrealms.com",
+		"type": "PC"
+	},
+	{
+		"name": "Laintania",
+		"ip": "laintania.net",
+		"type": "PC"
+	},
+	{
+		"name": "Hyperknox",
+		"ip": "hyperknox.world",
+		"type": "PC"
+	},
+	{
+		"name": "EternalCore",
+		"ip": "eternal-core.net",
+		"type": "PC"
+	},
+	{
+		"name": "MCCIsland",
+		"ip": "play.mccisland.net",
+		"type": "PC"
+	},
+	{
+		"name": "TubNet",
+		"ip": "tubnet.gg",
+		"type": "PC"
+	},
+	{
+		"name": "GommeHD",
+		"ip": "gommehd.net",
+		"type": "PC"
+	},
+	{
+		"name": "Lostify",
+		"ip": "lostify.net",
 		"type": "PC"
 	}
 ]
